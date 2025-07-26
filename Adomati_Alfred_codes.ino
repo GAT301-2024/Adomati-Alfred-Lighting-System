@@ -1,6 +1,7 @@
 #include <WiFi.h>
 #include <WebServer.h>
 #include <time.h>
+#include <RTClib.h>
 
 // Wi-Fi credentials
 const char *ssid = "Alfred's A12";
